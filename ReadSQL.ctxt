@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=host\ h
+comment0.target=boolean\ getConnection(java.lang.String,\ java.util.HashMap)
+numComments=1

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=inputFile
+comment0.target=void\ setInputFile(java.lang.String)
+comment1.params=hash
+comment1.target=boolean\ read(java.util.HashMap)
+numComments=2

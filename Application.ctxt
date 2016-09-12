@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Application()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=h\ getName
+comment3.target=boolean\ isTextLoaded(java.util.HashMap,\ java.lang.String)
+comment3.text=\r\n\ Checks\ if\ text\ document\ was\ found\ and\ loaded.\r\n
+comment4.params=h\ getName
+comment4.target=boolean\ isExcelLoaded(java.util.HashMap,\ java.lang.String)
+comment4.text=\r\n\ Checks\ if\ excel\ document\ was\ found\ and\ loaded.\r\n
+comment5.params=h\ location
+comment5.target=boolean\ isDatabaseLoaded(java.util.HashMap,\ java.lang.String)
+comment5.text=\r\n\ Checks\ if\ the\ database\ was\ found\ and\ loaded.\r\n
+numComments=6

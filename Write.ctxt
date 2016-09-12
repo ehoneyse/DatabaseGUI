@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=h\ newData
+comment0.target=void\ writeText(java.util.HashMap,\ java.lang.String)
+comment0.text=\r\n\ Writes\ to\ the\ end\ of\ the\ text\ document.\r\n
+comment1.params=h\ newData
+comment1.target=void\ writeExcel(java.util.HashMap,\ java.lang.String)
+comment1.text=Writes\ to\ the\ end\ of\ the\ excel\ document.\r\n
+comment2.params=h\ newData
+comment2.target=void\ writeDatabase(java.util.HashMap,\ java.lang.String)
+comment2.text=\r\n\ Writes\ to\ the\ database\ and\ pust\ it\ in\ order.\r\n
+numComments=3
